@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "registro persona movil 2021"

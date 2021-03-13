@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">registro persona movil 2021</string>
+    <string name="datos_persona">Datos de la persona</string>
+    <string name="digite_numero_documento">Digite el nùmero de documento</string>
+    <string name="digite_nombre">Digite un nombre</string>
+    <string name="digite_apellido">Digite un apellido</string>
+    <string name="listado_persona">Listado de personas</string>
+    <string name="registro_persona">Registro persona</string>
+    <string name="insertar">Insertar</string>
+    <string name="guardar">Guardar</string>
+    <string name="sin_infomacion">No existen personas registradas en el sistema</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_message_guardar_informacion">¿Está seguro de guardar la información?</string>
+    <string name="confirm_action">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirm_message_delete_person">¿Está seguro que desea eliminar esta persona?</string>
+    <string name="error_inesperado_eliminando_persona">Hubo un error inesperado eliminando a la persona.</string>
+    <string name="persona_eliminada_exitosamente">La persona ha sido eliminada exitosamente.</string>
+    <string name="confirm_message_actualizar_informacion">¿Está seguro de actualizar la información?</string>
+</resources>
